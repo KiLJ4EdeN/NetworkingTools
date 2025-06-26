@@ -1,3 +1,5 @@
 # NetworkingTools
 
-Use at your own risk while following legal rules.
+These are for educatioon purposes only.
+
+Use only in accordance with applicable laws and regulations.

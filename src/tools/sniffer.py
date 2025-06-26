@@ -5,7 +5,7 @@ import datetime
 from ctypes import *
 
 # host to listen on
-host = "192.168.12.2"
+host = "127.0.0.1"
 
 
 class IP(Structure):
